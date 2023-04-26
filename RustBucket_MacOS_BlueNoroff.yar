@@ -19,8 +19,8 @@ rule RustBucket_April_2023 {
         $f1 = "_downAndExecute"
         $f2 = "downAndExecute_block_invoke"
 
-        $d1 = cloud.dnx.capital
-        $d2 = deck.31ventures.info
+        $d1 = "cloud.dnx.capital"
+        $d2 = "deck.31ventures.info"
     condition:
         any of them
 }
