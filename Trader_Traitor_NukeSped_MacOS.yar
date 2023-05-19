@@ -1,6 +1,6 @@
 rule Trader_Traitor {
     meta:
-        description = "North Korean Mac OS backdoor Trader Traitor NukeSped"
+        description = "North Korean MacOS backdoor Trader Traitor NukeSped"
         date = "2023-04-25"
         author = "malibooyah"
         reference = "https://objective-see.org/blog/blog_0x6E.html"

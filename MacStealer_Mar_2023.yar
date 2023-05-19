@@ -1,7 +1,7 @@
 rule MacStealer_Feb_22 {
     meta:
         description = "Phishing attack that leads to NimbleMamba malware"
-        date = "2023-04-28"
+        date = "2023-04-29"
         author = "malibooyah"
         reference = "https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware"
         hash1 = "9b17aee4c8a5c6e069fbb123578410c0a7f44b438a4c988be2b65ab4296cff5e"
